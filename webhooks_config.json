@@ -1,0 +1,28 @@
+{
+    "webhooks": [
+        {
+            "url": "WEBHOOK_HERE",
+            "color": 12492629,
+            "author": {
+                "name": "AUTHOR NAME HERE",
+                "icon_url": "IMAGE URL HERE"
+            },
+            "footer": {
+                "text": "FOOTER TEXT HERE",
+                "icon_url": ""
+            }
+        },
+        {
+            "url": "",
+            "color": 1243455,
+            "author": {
+                "name": "CBF Monitor",
+                "icon_url": "https://pbs.twimg.com/profile_images/1599005223472726016/1tCrI35N_400x400.jpg"
+            },
+            "footer": {
+                "text": "",
+                "icon_url": "https://pbs.twimg.com/profile_images/1599005223472726016/1tCrI35N_400x400.jpg"
+            }
+        }
+    ]
+}
