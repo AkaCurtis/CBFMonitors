@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 API_KEY = ""
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1225689070890385519/T73mBJ8WKlGQA07NpHF97cRG6eAocRTgayy19QZCL8VV36Q2T7enAxITEXdsV4mjfTsM"
+DISCORD_WEBHOOK_URL = ""
 
 headers = {
     'Accept': 'application/json',
